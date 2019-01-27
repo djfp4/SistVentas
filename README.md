@@ -1,2 +1,2 @@
 # SistVentas
-El nombre de la base de datos es sistemaventas
+Este es un sistema de ventas hecho con php, javascript, jquery y bootstrap
